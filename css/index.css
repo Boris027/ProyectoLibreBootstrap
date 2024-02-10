@@ -31,4 +31,11 @@
     }
 }
 
+.colorcards{
+    background: linear-gradient(to bottom right, #990099, #003366);
+}
+
+nav a:hover{
+    color: red!important;
+}
 
