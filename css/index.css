@@ -17,3 +17,18 @@
 .colorseccionimpar{
     background-color: #0E133F;
 }
+
+#video{
+    width: 50%;
+}
+
+
+@media only screen and (width<800px){
+    
+    #video{width: 100%;}
+    #carouselExampleCaptions img{
+        width: 80%!important;
+    }
+}
+
+
