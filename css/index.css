@@ -1,0 +1,19 @@
+.p-50{
+    width: 50px;
+}
+
+
+#herosection{
+    background-image: url(../img/hero.jpg);
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+.colorseccionpar{
+    background-color: #0E1555;
+}
+
+.colorseccionimpar{
+    background-color: #0E133F;
+}
