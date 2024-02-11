@@ -29,6 +29,10 @@
     #carouselExampleCaptions img{
         width: 80%!important;
     }
+    #seccionesfooter{
+        width: 75%;
+        margin: auto;
+    }
 }
 
 .colorcards{
