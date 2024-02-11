@@ -33,6 +33,11 @@
         width: 75%;
         margin: auto;
     }
+
+    #herosection{
+        background-image: url(../img/poster.jpg);
+
+    }
 }
 
 .colorcards{
