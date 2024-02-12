@@ -1,8 +1,15 @@
+/****************************************/
+/*     StyleSheet: Dawn of the seven    */
+/*     Made by: Boris Gallego Ríos      */
+/*     Versión 1.0                      */
+/****************************************/
+
+
 .p-50{
     width: 50px;
 }
 
-
+/*estilos de la hero section*/
 #herosection{
     background-image: url(../img/hero.jpg);
     background-size: cover;
@@ -10,14 +17,17 @@
     background-attachment: fixed;
 }
 
+/*el color de las secciones pares*/
 .colorseccionpar{
     background-color: #0E1555;
 }
 
+/*el color de las secciones impares*/
 .colorseccionimpar{
     background-color: #0E133F;
 }
 
+/*el video ocupa de forma predefinida el 50% del espacio*/
 #video{
     width: 50%;
 }
@@ -25,25 +35,47 @@
 
 @media only screen and (width<800px){
     
+    /*Hace que el video del trailer ocupe el 100% de la pantalla*/
     #video{width: 100%;}
+
+    /*hace que las fotos del carousel se hagan mas grandes*/
     #carouselExampleCaptions img{
         width: 80%!important;
     }
+
+    /*el footer se hace un poco mas grande y se centra*/
     #seccionesfooter{
         width: 75%;
         margin: auto;
     }
 
+    /*se cambia el fondo de pantalla*/
     #herosection{
         background-image: url(../img/poster.jpg);
+    }
 
+    /*se hace el formulario mas grande*/
+    #formulario{
+        width: 100%!important;
+    }
+
+    /*pone las flechas del carousel un poco mas a los lados*/
+    .carousel-control-next {
+        right: -40px;
+    }
+
+    .carousel-control-prev {
+        left: -40px;
     }
 }
 
+
+/*fondo de gradiente de colores que tienen las cards*/
 .colorcards{
     background: linear-gradient(to bottom right, #990099, #003366);
 }
 
+/*pone el color rojo a las palabras que hay en el nav cuando las tocamos*/
 nav a:hover{
     color: red!important;
 }
@@ -52,3 +84,32 @@ nav a:hover{
     margin-bottom: 10vh;
 }
 
+/*mueve el indicador del carousel hacia abajo*/
+.carousel-indicators{
+    bottom: -45px;
+}
+
+
+/*cambia el color del accordion y lo hace un poco mas grande*/
+.accordion-button{
+    background-color: #2713a1;
+    padding: 35px;
+    
+}
+
+
+
+.accordion-button:not(.collapsed) {
+    background-color: #2713a1;
+
+}
+
+/*Cambiar color icono carousel a color rojo*/
+.carousel-indicators [data-bs-target] {
+    background-color: red;
+}
+
+/*El tamaño de la casilla mensaje del formulario*/
+#mensajelargoform{
+    height: 300px;
+}
