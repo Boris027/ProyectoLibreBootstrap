@@ -98,7 +98,7 @@ nav a:hover{
 }
 
 
-
+/*cambia el color del acordion cuando este se abre*/
 .accordion-button:not(.collapsed) {
     background-color: #2713a1;
 
@@ -113,3 +113,17 @@ nav a:hover{
 #mensajelargoform{
     height: 300px;
 }
+
+/*da el formato de las imagenes del footer*/
+footer svg{
+    font-size: 5em!important;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+/*pone de color rojo los iconos de las redes sociales cuando pasas el raton por encima*/
+footer svg:hover{
+    color:red!important;
+}
+
