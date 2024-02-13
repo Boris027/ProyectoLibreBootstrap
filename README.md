@@ -6,7 +6,6 @@
 
 
 ![1](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/e46b0839-53d3-4698-bd07-b79a58413bbb)
-<li>Sinopsis</li>
 ![image](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/3fb0bc32-55f6-4468-96b7-d2beb67f745d)
 <li>Posters</li>
 ![image](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/4ff32ca6-d1c8-48aa-8dbd-f88a1b34b843)
@@ -27,8 +26,10 @@
 
 ![1](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/e46b0839-53d3-4698-bd07-b79a58413bbb)
 
+<li>Sinopsis</li>
 
+![2](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/310ad433-1370-44dc-8836-a1b186d88f44)
 
-  
+<li>Posters</li>
 
-
+![3](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/ab5603a9-674c-42a6-9752-eb1b38b23d75)
