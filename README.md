@@ -51,22 +51,22 @@
 
 ![carousel](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/c66a2c55-9bb6-4ec6-b929-03df4a372a1b)
 
-<p>Para añadir el iframe del trailer, se ha utilizado el siguiente código de bootstrap</p>
+<p>Para añadir el iframe del trailer, se ha utilizado el siguiente código de bootstrap</p><br>
 
 ![iframe](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/2bf9913b-c59d-4181-bbc6-0581948b2806)
 
-<p>Para poner las cards, se ha utilizado y modificado el siguiente código de bootstrap</p>
+<p>Para poner las cards, se ha utilizado y modificado el siguiente código de bootstrap</p><br>
 
 ![cards](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/277a3100-ab63-4bd3-a0d9-4008e78c2dbc)
 
-<p>Para poner las preguntas frecuentes, se ha utilizado y modificado el siguiente código de bootstrap</p>
+<p>Para poner las preguntas frecuentes, se ha utilizado y modificado el siguiente código de bootstrap</p><br>
 
 ![accordions](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/ff2f1ef4-b65d-46b7-9f66-0528fb1932c8)
 
-<p>Para el formulario se ha utilizado el siguiente código: </p>
+<p>Para el formulario se ha utilizado el siguiente código: </p><br>
 
 ![form](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/83cffb27-f2f0-403d-a799-07044d33f9d6)
 
-<p>Para las ventanas modales he utilizado el siguiente código: </p>
+<p>Para las ventanas modales he utilizado el siguiente código: </p><br>
 
 ![modal](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/df0c899d-117b-442a-b0fc-f1f1a1fb667f)
