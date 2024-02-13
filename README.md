@@ -3,11 +3,11 @@
 🢂<a href="https://boris027.github.io/ProyectoLibreBootstrap/Index.html">  Acceso a la página  </a>🢀
 
 <h2>Secciones</h2>
-<ul>
+
 
 <li>Hero section</li>
-![image](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/e1972be5-d320-4ff7-8945-0342569b7227)
+![image](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/b78683cf-521e-4bc1-ab5a-f0df9c84e786)
 
   
-</ul>
+
 
