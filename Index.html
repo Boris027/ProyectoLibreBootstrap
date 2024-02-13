@@ -303,36 +303,40 @@
             <h1 class="pt-5 text-center text-light">Contact Us</h1>
             <form class="w-50 m-auto pt-5" id="formulario" action="" method="post" onsubmit="return validacion()">
                 <div class="mb-3">
-                    <label for="examplename" class="form-label text-light">Name</label>
-                    <input type="text" class="form-control" id="examplename" aria-describedby="namehelp">
 
-                    <p id="nombreingresar" class="text-danger d-none">Debes ingresar un nombre</p>
+                    <label for="examplename" class="form-label text-light">Name</label>
+                    <input onchange="eliminarerror1('examplename','nombreingresar')" type="text" class="form-control" id="examplename" aria-describedby="namehelp">
+
+                    <p id="nombreingresar" class="text-danger nomostrar">You must enter a name</p>
 
                 </div>
                 <div class="mb-3">
                     <label for="exampleapellido" class="form-label text-light">Last Name</label>
-                    <input type="text" class="form-control" id="exampleapellido" aria-describedby="apellidohelp">
+                    <input onchange="eliminarerror1('exampleapellido','apellidosingresar')" type="text" class="form-control" id="exampleapellido" aria-describedby="apellidohelp">
 
-                    <p id="apellidosingresar" class="text-danger d-none">Debes ingresar tus apellidos</p>
+                    <p id="apellidosingresar" class="text-danger nomostrar">You must enter a Lastname</p>
 
                 </div>
                 <div class="mb-3">
                     <label for="exampleInputEmail1" class="form-label text-light">Email</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <input onchange="eliminarerror2('exampleInputEmail1','correoingresar','correoingresarcorrecto')" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
 
-                    <p id="correoingresar" class="text-danger d-none">Debes ingresar tu correo</p>
+                    <p id="correoingresar" class="text-danger nomostrar">You must enter a Email</p>
+                    <p id="correoingresarcorrecto" class="text-danger nomostrar">You must enter a valid one</p>
 
                 </div>
                 <div class="mb-3">
                     <label for="mensajelargoform" class="form-label text-light">Message</label>
-                    <textarea type="subject" class="form-control" id="mensajelargoform"></textarea>
+                    <textarea onchange="eliminarerror1('mensajelargoform','mensajeingresar')" type="subject" class="form-control" id="mensajelargoform"></textarea>
 
-                    <p id="mensajeingresar" class="text-danger d-none">Debes ingresar un mensaje</p>
+                    <p id="mensajeingresar" class="text-danger nomostrar">You must enter a Message</p>
 
                 </div>
                 <div class="mb-3 form-check">
-                    <input type="checkbox" class="form-check-input" data-bs-toggle="modal" data-bs-target="#exampleModal" id="exampleCheck1">
+                    <input onchange="eliminarerror1('exampleCheck1','mensajecheckbox')" type="checkbox" class="form-check-input" data-bs-toggle="modal" data-bs-target="#exampleModal" id="exampleCheck1">
                     <label class="form-check-label text-light" for="exampleCheck1">Accept terms</label>
+                    <p id="mensajecheckbox" class="text-danger nomostrar">You must accept the terms</p>
+
                 </div>
                 <button type="submit" class="btn btn-primary colorseccionimpar">Submit</button>
             </form>
@@ -363,7 +367,7 @@
                     
                   </div>
                   <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary colorseccionimpar" data-bs-dismiss="modal">Reject</button>
+                    <button type="button" class="btn btn-secondary colorseccionimpar" data-bs-dismiss="modal"  onclick="deseleccionarCheckbox()">Reject</button>
                     <button type="button" class="btn btn-primary colorseccionimpar" data-bs-dismiss="modal">Accept</button>
                   </div>
                 </div>
