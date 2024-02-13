@@ -6,7 +6,7 @@
 
 
 <li>Hero section</li>
-![image](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/b78683cf-521e-4bc1-ab5a-f0df9c84e786)
+![1](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/64031bdf-7537-4b8f-97b0-7f6e206d279f)
 <li>Sinopsis</li>
 ![image](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/3fb0bc32-55f6-4468-96b7-d2beb67f745d)
 <li>Posters</li>
@@ -31,4 +31,3 @@
   
 
 
-![9](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/b109c601-e032-4d9d-b7e1-4058b5749cf7)
