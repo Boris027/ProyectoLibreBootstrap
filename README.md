@@ -5,7 +5,6 @@
 <h2>Secciones</h2>
 
 
-<p>Hero section</p>
 ![1](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/e46b0839-53d3-4698-bd07-b79a58413bbb)
 <li>Sinopsis</li>
 ![image](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/3fb0bc32-55f6-4468-96b7-d2beb67f745d)
@@ -24,6 +23,7 @@
 <li>Footer</li>
 ![image](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/65739bb4-b4b2-477a-a784-1304b95c943c)
 
+<li>Hero section</li>
 
 ![1](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/e46b0839-53d3-4698-bd07-b79a58413bbb)
 
