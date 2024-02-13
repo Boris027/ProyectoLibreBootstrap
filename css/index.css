@@ -63,12 +63,29 @@
     .carousel-control-next {
         right: -40px;
     }
-
     .carousel-control-prev {
         left: -40px;
     }
+
+    
 }
 
+
+/*Animación de las imagenes de la hero section al pasar el raton por encima*/
+.carousel-item img:hover{
+    
+    animation: glow 1.5s infinite alternate;
+    
+}
+
+@keyframes glow {
+    from {
+      box-shadow: 0 0 10px 5px rgba(255, 0, 0, 0.5); /* Establecer el efecto de brillo */
+    }
+    to {
+      box-shadow: 0 0 20px 10px rgba(255, 0, 0, 0.8); /* Incrementar el brillo */
+    }
+  }
 
 /*fondo de gradiente de colores que tienen las cards*/
 .colorcards{
