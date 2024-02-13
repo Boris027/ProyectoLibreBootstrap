@@ -127,3 +127,23 @@ footer svg:hover{
     color:red!important;
 }
 
+/*importa las fuentes de letra*/
+@font-face {
+    font-family: fuentenormal;
+    src: url(../fonts/SourceSansPro-Black.ttf);
+}
+
+@font-face {
+    font-family: italic2;
+    src: url(../fonts/SourceSansPro-Italic.ttf);
+}
+
+/*Aplica las fuentes de letra*/
+h1,h4,h5{
+    font-family: italic2;
+}
+
+*{
+    font-family: fuentenormal;
+}
+
