@@ -42,3 +42,7 @@
   
   ![9](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/7b7b1211-57cd-4321-bef4-e6c5fcbe5f9a)
 
+<h2>Fuentes</h2>
+<p>El topnav se ha sacado de bootstrap y ha sido modificado, es el siguiente</p><br>
+
+![imagennav](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/39d3dc8d-c2fd-4d08-a3b9-3f187c36384e)
