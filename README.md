@@ -10,7 +10,7 @@
   
   ![1](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/e46b0839-53d3-4698-bd07-b79a58413bbb)
   
-  <li>Sinopsis</li>
+  <li>Sinopsis</li><br>
   
   ![2](https://github.com/Boris027/ProyectoLibreBootstrap/assets/145535733/310ad433-1370-44dc-8836-a1b186d88f44)
   
